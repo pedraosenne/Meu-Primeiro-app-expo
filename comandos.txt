@@ -1,0 +1,18 @@
+***Comandos parar verificar pacotes***
+ 1- node --vision
+ 2- npm --virsion
+ 3- expo --vision
+  
+
+*** Comando para inciar o projeto
+1- expo init
+
+*** arrumar web expo (liberrar a opção de runtine)***
+ npx expo install react-dom react-native-web @expo/metro-runtime
+
+
+*** Comando para rodar o projeto ***
+1- npx expo start
+
+*** Limpar terminal
+1- clear
